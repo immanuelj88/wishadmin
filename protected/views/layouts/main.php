@@ -30,6 +30,7 @@
 <!--    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>-->
 
     <style>
+        
         @font-face {
             font-family: "myTamilFont";
             src: url(<?php echo Yii::app()->request->baseUrl; ?>/css/stylish-tamil.ttf);
