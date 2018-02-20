@@ -101,7 +101,6 @@ $this->breadcrumbs=array(
                     <center>
                 </div>
             </div>
-
         </div>
         <form method="get" action="ready.php">
             <div class="enter-name">

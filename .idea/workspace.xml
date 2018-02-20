@@ -2,31 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c08b8c96-7093-4267-ab04-39bc5aad1d27" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/components/Controller.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/components/UserIdentity.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/data/schema.mysql.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/data/schema.sqlite.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/data/testdrive.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/models/ContactForm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/models/LoginForm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/runtime/application.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/runtime/gii-1.1.17/ControllerCode.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/tests/WebTestCase.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/tests/bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/tests/functional/SiteTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/tests/phpunit.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/views/layouts/column1.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/views/layouts/column2.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/views/layouts/main.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/views/wish/contact.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/views/wish/error.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/views/wish/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/views/wish/login.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/yiic" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/yiic.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/yiic.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected - Copy/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected - Copy/components/Controller.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected - Copy/components/UserIdentity.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected - Copy/config/console.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected - Copy/config/database.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected - Copy/config/main.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected - Copy/config/test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected - Copy/controllers/WishController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected - Copy/data/schema.mysql.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected - Copy/data/schema.sqlite.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected - Copy/data/testdrive.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected - Copy/models/ContactForm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected - Copy/models/LoginForm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected - Copy/runtime/application.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected - Copy/runtime/gii-1.1.17/ControllerCode.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected - Copy/tests/WebTestCase.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected - Copy/tests/bootstrap.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected - Copy/tests/functional/SiteTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected - Copy/tests/phpunit.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected - Copy/views/layouts/column1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected - Copy/views/layouts/column2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected - Copy/views/layouts/main.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected - Copy/views/wish/contact.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected - Copy/views/wish/error.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected - Copy/views/wish/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected - Copy/views/wish/login.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected - Copy/yiic" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected - Copy/yiic.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected - Copy/yiic.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/wish/index.php" afterPath="$PROJECT_DIR$/protected/views/wish/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,8 +66,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/protected/views/wish/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="101" column="22" lean-forward="true" selection-start-line="101" selection-start-column="22" selection-end-line="101" selection-end-column="22" />
+            <state relative-caret-position="459">
+              <caret line="154" column="18" lean-forward="false" selection-start-line="154" selection-start-column="18" selection-end-line="154" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -181,12 +187,12 @@
       <updated>1519021403743</updated>
       <workItem from="1519021407799" duration="17642000" />
       <workItem from="1519101675452" duration="146000" />
-      <workItem from="1519133710536" duration="2397000" />
+      <workItem from="1519133710536" duration="2962000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20185000" />
+    <option name="totallyTimeSpent" value="20750000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -214,11 +220,11 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.2193646" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.7806354" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -393,8 +399,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/wish/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="101" column="22" lean-forward="true" selection-start-line="101" selection-start-column="22" selection-end-line="101" selection-end-column="22" />
+        <state relative-caret-position="459">
+          <caret line="154" column="18" lean-forward="false" selection-start-line="154" selection-start-column="18" selection-end-line="154" selection-end-column="18" />
           <folding />
         </state>
       </provider>
