@@ -99,9 +99,8 @@ $this->breadcrumbs=array(
                 <img src="images/Favicon.jpg" height="40px" width="40px"/>
                 <div class="busi">[Your Name]<br><img src="images/Favicon.jpg" height="35px" width="35px"/></p>
                     <center>
-                </div>
+                </div>g
             </div>
-
         </div>
         <form method="get" action="ready.php">
             <div class="enter-name">

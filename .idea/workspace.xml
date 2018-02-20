@@ -2,6 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c08b8c96-7093-4267-ab04-39bc5aad1d27" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/components/Controller.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/components/UserIdentity.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/data/schema.mysql.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/data/schema.sqlite.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/data/testdrive.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/models/ContactForm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/models/LoginForm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/runtime/application.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/runtime/gii-1.1.17/ControllerCode.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/tests/WebTestCase.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/tests/bootstrap.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/tests/functional/SiteTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/tests/phpunit.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/views/layouts/column1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/views/layouts/column2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/views/layouts/main.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/views/wish/contact.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/views/wish/error.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/views/wish/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/views/wish/login.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/yiic" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/yiic.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/yiic.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,16 +37,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WishController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/controllers/WishController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="57" lean-forward="false" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/protected/views/wish/contact.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -46,8 +60,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/protected/views/wish/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="95" column="21" lean-forward="true" selection-start-line="95" selection-start-column="21" selection-end-line="95" selection-end-column="21" />
+            <state relative-caret-position="309">
+              <caret line="101" column="22" lean-forward="true" selection-start-line="101" selection-start-column="22" selection-end-line="101" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -167,24 +181,24 @@
       <updated>1519021403743</updated>
       <workItem from="1519021407799" duration="17642000" />
       <workItem from="1519101675452" duration="146000" />
-      <workItem from="1519133710536" duration="1537000" />
+      <workItem from="1519133710536" duration="2397000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19325000" />
+    <option name="totallyTimeSpent" value="20185000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.2193646" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.7806354" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -379,8 +393,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/wish/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="95" column="21" lean-forward="true" selection-start-line="95" selection-start-column="21" selection-end-line="95" selection-end-column="21" />
+        <state relative-caret-position="309">
+          <caret line="101" column="22" lean-forward="true" selection-start-line="101" selection-start-column="22" selection-end-line="101" selection-end-column="22" />
           <folding />
         </state>
       </provider>
