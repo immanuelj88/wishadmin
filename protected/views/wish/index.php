@@ -99,13 +99,12 @@ $this->breadcrumbs=array(
                 <img src="images/Favicon.jpg" height="40px" width="40px"/>
                 <div class="busi">[Your Name]<br><img src="images/Favicon.jpg" height="35px" width="35px"/></p>
                     <center>
-                </div>
+                </div>g
             </div>
         </div>
         <form method="get" action="ready.php">
             <div class="enter-name">
-                <input class="animated pulse infinite" type="name" required="" maxlength="50" name="n"
-                       placeholder="👉 Enter Your Name Here">
+                <input class="animated pulse infinite" type="text" required="" maxlength="50" name="n" placeholder="👉 Enter Your Name Here">
                 <button class="btn animated shake infinite" type="submit"><span>👉</span> Go</button>
             </div>
         </form>
@@ -117,7 +116,7 @@ $this->breadcrumbs=array(
 <script>
     $(document).ready(function (e) {
         $('body').wpSuperSnow({
-            flakes: ['<?php echo Yii::app()->request->baseUrl; ?>/images/star1.svg', '<?php echo Yii::app()->request->baseUrl; ?>/images/star2.svg', '<?php echo Yii::app()->request->baseUrl; ?>/images/star3.svg', '<?php echo Yii::app()->request->baseUrl; ?>/images/star4.svg', '<?php echo Yii::app()->request->baseUrl; ?>/images/star5.svg', '<?php echo Yii::app()->request->baseUrl; ?>/images/star6.svg'],
+            flakes: ['<?php echo Yii::app()->request->baseUrl; ?>/images/star1.svg', '<?php echo Yii::app()->request->baseUrl; ?>/images/star2.svg', '<?php echo Yii::app()->request->baseUrl; ?>/images/star3.svg', '<?php echo Yii::app()->request->baseUrl; ?>/images/star4.svg', '<?php echo Yii::app()->request->baseUrl; ?>/images/star5.svg', '<?php echo Yii::app()->request->baseUrl; ?>/images/star6.svg','<?php echo Yii::app()->request->baseUrl; ?>/images/star1.svg', '<?php echo Yii::app()->request->baseUrl; ?>/images/star2.svg', '<?php echo Yii::app()->request->baseUrl; ?>/images/star3.svg', '<?php echo Yii::app()->request->baseUrl; ?>/images/star4.svg', '<?php echo Yii::app()->request->baseUrl; ?>/images/star5.svg', '<?php echo Yii::app()->request->baseUrl; ?>/images/star6.svg'],
             totalFlakes: '35',
             zIndex: '999999',
             maxSize: '77',

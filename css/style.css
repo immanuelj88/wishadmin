@@ -561,7 +561,7 @@ h5 {
   font-family: sans-serif;
 }
 
-.enter-name input[type=name] {
+.enter-name input[type=text] {
   background-color: #0099ff;
   color: #fff;
   border-radius: 10px;
